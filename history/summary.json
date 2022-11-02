@@ -34,7 +34,7 @@
     "timeMonth": 347,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2022-11-02": 30
+      "2022-11-02": 43
     }
   },
   {
@@ -72,5 +72,25 @@
     "timeMonth": 1291,
     "timeYear": 1291,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Morphology Analyser",
+    "url": "https://morph.smc.org.in",
+    "icon": "https://icons.duckduckgo.com/ip3/morph.smc.org.in.ico",
+    "slug": "morphology-analyser",
+    "status": "up",
+    "uptime": "16.42%",
+    "uptimeDay": "16.42%",
+    "uptimeWeek": "16.42%",
+    "uptimeMonth": "16.42%",
+    "uptimeYear": "16.42%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-11-02": 0
+    }
   }
 ]
