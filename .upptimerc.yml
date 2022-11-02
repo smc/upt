@@ -28,7 +28,7 @@ status-website:
   introMessage: This status page for SMC websites
   navbar:
     - title: Status
-      href: /
+      href: /upt
     - title: SMC
       href: https://smc.org.in
 
