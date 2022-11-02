@@ -12,7 +12,7 @@ sites:
   - name: Volunteer
     url: https://volunteer.smc.org.in
   - name: Morphology Analyser
-    url: morph.smc.org.in
+    url: https://morph.smc.org.in
 assignees : # Users to assign downtime issues (optional)
   - balasankarc
   - joicemjoseph
@@ -21,14 +21,14 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: status2.smc.org.in
-  baseUrl: https://smc.github.io/upt
+  baseUrl: /upt
   logoUrl: https://smc.org.in/img/logo.60277b3b.svg
   name: "Status Page"
   introTitle: "***SMC*** service status log"
   introMessage: This status page for SMC websites
   navbar:
     - title: Status
-      href: https://smc.github.io/upt
+      href: /upt
     - title: SMC
       href: https://smc.org.in
 
