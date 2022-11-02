@@ -11,6 +11,8 @@ sites:
     url: https://community.smc.org.in
   - name: Volunteer
     url: https://volunteer.smc.org.in
+  - name: Morphology Analyser
+    url: https://morph.smc.org.in
 assignees : # Users to assign downtime issues (optional)
   - balasankarc
   - joicemjoseph
