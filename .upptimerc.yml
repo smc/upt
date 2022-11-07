@@ -16,6 +16,10 @@ sites:
     url: https://morph.smc.org.in
     __dangerous__disable_verify_peer: true
     expectedStatusCodes: [200]
+  - name: Varnam API
+    url: https://api.varnamproject.com/status
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes: [200]
 assignees : # Users to assign downtime issues (optional)
   - balasankarc
   - joicemjoseph
