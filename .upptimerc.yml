@@ -13,6 +13,8 @@ sites:
     url: https://volunteer.smc.org.in
   - name: Morphology Analyser
     url: https://morph.smc.org.in
+    delay: 2000
+    expectedStatusCodes: [200]
 assignees : # Users to assign downtime issues (optional)
   - balasankarc
   - joicemjoseph
