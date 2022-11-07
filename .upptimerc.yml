@@ -18,7 +18,6 @@ sites:
     - joicemjoseph
   - name: Volunteer
     url: https://volunteer.smc.org.in
-    expectedStatusCodes: [400]
     assignees: 
     - joicemjoseph
   - name: Morphology Analyser
