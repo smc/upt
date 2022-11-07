@@ -6,20 +6,31 @@ delay: 2000
 sites:
   - name: LibIndic
     url: https://libindic.org/
+    assignees: [asdofindia]
   - name: Grandham
     url: https://grandham.in
+    assignees: [tachyons]
   - name: Community
     url: https://community.smc.org.in
+    assignees: [joicemjoseph]
   - name: Volunteer
     url: https://volunteer.smc.org.in
+    assignees: [joicemjoseph]
   - name: Morphology Analyser
     url: https://morph.smc.org.in
     __dangerous__disable_verify_peer: true
     expectedStatusCodes: [200]
+    assignees: [santhoshtr]
   - name: Varnam API
     url: https://api.varnamproject.com/status
     __dangerous__disable_verify_peer: true
     expectedStatusCodes: [200]
+    assignees: [subins2000]
+  - name: KDE translation
+    url: https://kde.smc.org.in/api/?format=json
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes: [200]
+    assignees: [subins2000]
 assignees : # Users to assign downtime issues (optional)
   - balasankarc
   - joicemjoseph
