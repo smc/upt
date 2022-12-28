@@ -12,7 +12,7 @@ sites:
     url: https://grandham.in
     assignees: 
     - tachyons
-  - name: Grandham
+  - name: Poorna
     url: https://poorna.smc.org.in
     __dangerous__disable_verify_peer: true
     expectedStatusCodes: [200]
