@@ -2,7 +2,7 @@
 owner: smc # Your GitHub organization or username, where this repository lives
 repo: upt # The name of this repository
 
-delay: 2000
+delay: 5000
 sites:
   - name: LibIndic
     url: https://libindic.org/
