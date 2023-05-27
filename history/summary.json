@@ -53,19 +53,19 @@
     "url": "https://poorna.smc.org.in",
     "icon": "https://icons.duckduckgo.com/ip3/poorna.smc.org.in.ico",
     "slug": "poorna",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 635,
-    "timeDay": 577,
-    "timeWeek": 515,
-    "timeMonth": 985,
-    "timeYear": 635,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 636,
+    "timeDay": 618,
+    "timeWeek": 531,
+    "timeMonth": 975,
+    "timeYear": 636,
     "dailyMinutesDown": {
-      "2023-05-27": 1
+      "2023-05-27": 24
     }
   },
   {
@@ -176,7 +176,7 @@
     "timeMonth": 790,
     "timeYear": 863,
     "dailyMinutesDown": {
-      "2023-05-27": 198,
+      "2023-05-27": 222,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
