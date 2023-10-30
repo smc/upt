@@ -16,6 +16,7 @@ sites:
     url: https://poorna.smc.org.in
     __dangerous__disable_verify_peer: true
     expectedStatusCodes: [200]
+    maxResponseTime: 120000
     assignees: 
     - mujeebcpy
   - name: Community
