@@ -37,6 +37,7 @@ sites:
     url: https://api.varnamproject.com/status
     __dangerous__disable_verify_peer: true
     expectedStatusCodes: [200]
+    maxResponseTime: 120000
     assignees: 
     - subins2000
   - name: KDE translation
