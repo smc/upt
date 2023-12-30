@@ -4,8 +4,10 @@ repo: upt # The name of this repository
 
 delay: 5000
 sites:
-  - name: Homepage
+  - name: SMC website
     url: https://smc.org.in
+  - name: SMC blog
+    url: https://blog.smc.org.in
   - name: Indic Project
     url: https://indicproject.org
   - name: Indic Keyboard
@@ -41,6 +43,18 @@ sites:
     maxResponseTime: 120000
     assignees: 
     - subins2000
+  - name: Handwriting
+    url: https://handwriting.smc.org.in
+  - name: Malayalam Speech Corpus
+    url: https://msc.smc.org.in
+  - name: Malayalam Phonetic Analyser
+    url: https://phon.smc.org.in
+  - name: Optical Character Recognition
+    url: https://ocr.smc.org.in
+  - name: Releases
+    url: https://releases.smc.org.in
+  - name: English-Malayalam Machine Translation
+    url: https://translate.smc.org.in
 assignees : # Users to assign downtime issues (optional)
   - balasankarc
   - joicemjoseph
