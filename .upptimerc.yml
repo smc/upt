@@ -4,44 +4,47 @@ repo: upt # The name of this repository
 
 delay: 5000
 sites:
+  - name: Homepage
+    url: https://smc.org.in
+  - name: Indic Project
+    url: https://indicproject.org
+  - name: Indic Keyboard
+    url: https://indic.app
+  - name: Wiki
+    url: https://wiki.smc.org.in
+  - name: Mailing List
+    url: http://lists.smc.org.in
   - name: LibIndic
-    url: https://libindic.org/
+    url: https://libindic.org
     assignees: 
     - asdofindia
   - name: Grandham
     url: https://grandham.in
-    __dangerous__disable_verify_peer: true
-    expectedStatusCodes: [200]
     maxResponseTime: 120000
     assignees: 
     - tachyons
   - name: Poorna
     url: https://poorna.smc.org.in
-    __dangerous__disable_verify_peer: true
-    expectedStatusCodes: [200]
     maxResponseTime: 120000
     assignees: 
     - mujeebcpy
+  - name: Swanalekha
+    url: https://swanalekha.smc.org.in
   - name: Community
     url: https://community.smc.org.in
-    assignees: 
-    - joicemjoseph
   - name: Morphology Analyser
     url: https://morph.smc.org.in
-    __dangerous__disable_verify_peer: true
-    expectedStatusCodes: [200]
     assignees: 
     - santhoshtr
   - name: Varnam API
     url: https://api.varnamproject.com/status
-    __dangerous__disable_verify_peer: true
-    expectedStatusCodes: [200]
     maxResponseTime: 120000
     assignees: 
     - subins2000
 assignees : # Users to assign downtime issues (optional)
   - balasankarc
   - joicemjoseph
+  - asdofindia
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
