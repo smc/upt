@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 368,
     "timeDay": 306,
-    "timeWeek": 368,
+    "timeWeek": 390,
     "timeMonth": 368,
     "timeYear": 368,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 658,
     "timeDay": 810,
-    "timeWeek": 658,
+    "timeWeek": 681,
     "timeMonth": 658,
     "timeYear": 658,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 516,
     "timeDay": 545,
-    "timeWeek": 516,
+    "timeWeek": 537,
     "timeMonth": 516,
     "timeYear": 516,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 412,
     "timeDay": 545,
-    "timeWeek": 412,
+    "timeWeek": 437,
     "timeMonth": 412,
     "timeYear": 412,
     "dailyMinutesDown": {}
@@ -76,18 +76,20 @@
     "url": "https://wiki.smc.org.in",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.smc.org.in.ico",
     "slug": "wiki",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1307,
     "timeDay": 1360,
-    "timeWeek": 1307,
+    "timeWeek": 1350,
     "timeMonth": 1307,
     "timeYear": 1307,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-06": 1
+    }
   },
   {
     "name": "Mailing List",
@@ -102,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 259,
     "timeDay": 127,
-    "timeWeek": 259,
+    "timeWeek": 260,
     "timeMonth": 259,
     "timeYear": 259,
     "dailyMinutesDown": {}
@@ -115,7 +117,7 @@
     "status": "up",
     "uptime": "95.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "18.28%",
+    "uptimeWeek": "29.43%",
     "uptimeMonth": "41.31%",
     "uptimeYear": "95.08%",
     "time": 501,
@@ -154,14 +156,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/grandham.in.ico",
     "slug": "grandham",
     "status": "up",
-    "uptime": "75.09%",
+    "uptime": "75.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.53%",
+    "uptimeMonth": "84.09%",
     "uptimeYear": "72.13%",
     "time": 995,
     "timeDay": 1146,
-    "timeWeek": 992,
+    "timeWeek": 1010,
     "timeMonth": 1048,
     "timeYear": 1065,
     "dailyMinutesDown": {
@@ -286,7 +288,7 @@
     "uptimeYear": "99.96%",
     "time": 670,
     "timeDay": 818,
-    "timeWeek": 502,
+    "timeWeek": 548,
     "timeMonth": 552,
     "timeYear": 675,
     "dailyMinutesDown": {
@@ -309,7 +311,7 @@
     "uptimeYear": "100.00%",
     "time": 552,
     "timeDay": 700,
-    "timeWeek": 552,
+    "timeWeek": 604,
     "timeMonth": 552,
     "timeYear": 552,
     "dailyMinutesDown": {}
@@ -327,7 +329,7 @@
     "uptimeYear": "99.78%",
     "time": 653,
     "timeDay": 637,
-    "timeWeek": 605,
+    "timeWeek": 629,
     "timeMonth": 635,
     "timeYear": 641,
     "dailyMinutesDown": {
@@ -353,7 +355,7 @@
     "uptimeYear": "100.00%",
     "time": 706,
     "timeDay": 802,
-    "timeWeek": 643,
+    "timeWeek": 654,
     "timeMonth": 606,
     "timeYear": 717,
     "dailyMinutesDown": {}
@@ -371,7 +373,7 @@
     "uptimeYear": "99.91%",
     "time": 1002,
     "timeDay": 738,
-    "timeWeek": 1620,
+    "timeWeek": 1804,
     "timeMonth": 1771,
     "timeYear": 1012,
     "dailyMinutesDown": {
@@ -403,7 +405,7 @@
     "uptimeYear": "100.00%",
     "time": 510,
     "timeDay": 459,
-    "timeWeek": 510,
+    "timeWeek": 537,
     "timeMonth": 510,
     "timeYear": 510,
     "dailyMinutesDown": {}
@@ -421,7 +423,7 @@
     "uptimeYear": "100.00%",
     "time": 487,
     "timeDay": 529,
-    "timeWeek": 487,
+    "timeWeek": 521,
     "timeMonth": 487,
     "timeYear": 487,
     "dailyMinutesDown": {}
@@ -439,7 +441,7 @@
     "uptimeYear": "100.00%",
     "time": 500,
     "timeDay": 624,
-    "timeWeek": 500,
+    "timeWeek": 516,
     "timeMonth": 500,
     "timeYear": 500,
     "dailyMinutesDown": {}
@@ -457,7 +459,7 @@
     "uptimeYear": "100.00%",
     "time": 164,
     "timeDay": 82,
-    "timeWeek": 164,
+    "timeWeek": 152,
     "timeMonth": 164,
     "timeYear": 164,
     "dailyMinutesDown": {}
@@ -475,7 +477,7 @@
     "uptimeYear": "100.00%",
     "time": 526,
     "timeDay": 622,
-    "timeWeek": 526,
+    "timeWeek": 548,
     "timeMonth": 526,
     "timeYear": 526,
     "dailyMinutesDown": {}
@@ -493,7 +495,7 @@
     "uptimeYear": "100.00%",
     "time": 367,
     "timeDay": 412,
-    "timeWeek": 367,
+    "timeWeek": 377,
     "timeMonth": 367,
     "timeYear": 367,
     "dailyMinutesDown": {}
