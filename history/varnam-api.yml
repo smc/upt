@@ -1,7 +1,7 @@
 url: https://api.varnamproject.com/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-12T08:30:01.443Z
+status: up
+code: 200
+responseTime: 3498
+lastUpdated: 2024-02-12T08:41:36.673Z
 startTime: 2022-11-07T08:02:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
