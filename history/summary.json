@@ -100,10 +100,10 @@
     "url": "http://lists.smc.org.in",
     "icon": "https://icons.duckduckgo.com/ip3/lists.smc.org.in.ico",
     "slug": "mailing-list",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
@@ -111,7 +111,9 @@
     "timeWeek": 265,
     "timeMonth": 293,
     "timeYear": 275,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-12": 1
+    }
   },
   {
     "name": "LibIndic",
