@@ -1,7 +1,7 @@
 url: https://community.smc.org.in
-status: up
-code: 200
-responseTime: 563
-lastUpdated: 2024-05-18T23:09:57.880Z
+status: down
+code: 502
+responseTime: 532
+lastUpdated: 2024-05-19T10:13:45.206Z
 startTime: 2022-11-02T10:41:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
