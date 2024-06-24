@@ -1,7 +1,7 @@
 url: https://phon.smc.org.in
-status: up
-code: 200
-responseTime: 421
-lastUpdated: 2024-06-23T23:11:53.267Z
+status: down
+code: 502
+responseTime: 450
+lastUpdated: 2024-06-24T12:33:16.978Z
 startTime: 2023-12-30T14:43:13.820Z
 generator: Upptime <https://github.com/upptime/upptime>
