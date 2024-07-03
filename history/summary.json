@@ -160,7 +160,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/grandham.in.ico",
     "slug": "grandham",
     "status": "up",
-    "uptime": "82.42%",
+    "uptime": "82.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -444,10 +444,10 @@
     "url": "https://phon.smc.org.in",
     "icon": "https://icons.duckduckgo.com/ip3/phon.smc.org.in.ico",
     "slug": "malayalam-phonetic-analyser",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.94%",
     "time": 487,
@@ -456,6 +456,7 @@
     "timeMonth": 497,
     "timeYear": 487,
     "dailyMinutesDown": {
+      "2024-07-03": 1,
       "2024-06-24": 148
     }
   },
