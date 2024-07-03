@@ -345,10 +345,10 @@
     "url": "https://morph.smc.org.in",
     "icon": "https://icons.duckduckgo.com/ip3/morph.smc.org.in.ico",
     "slug": "morphology-analyser",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 689,
@@ -356,7 +356,9 @@
     "timeWeek": 725,
     "timeMonth": 651,
     "timeYear": 699,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-03": 1
+    }
   },
   {
     "name": "Varnam API",
@@ -446,9 +448,9 @@
     "slug": "malayalam-phonetic-analyser",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.94%",
     "time": 487,
     "timeDay": 473,
@@ -456,7 +458,7 @@
     "timeMonth": 497,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2024-07-03": 1,
+      "2024-07-03": 14,
       "2024-06-24": 148
     }
   },
