@@ -39,7 +39,7 @@ sites:
     assignees: 
     - santhoshtr
   - name: Varnam API
-    url: https://api.varnamproject.com/status
+    url: https://varnam-status.smc.org.in/status
     maxResponseTime: 120000
     assignees: 
     - subins2000
