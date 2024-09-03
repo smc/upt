@@ -40,36 +40,39 @@
     "url": "https://indicproject.org",
     "icon": "https://icons.duckduckgo.com/ip3/indicproject.org.ico",
     "slug": "indic-project",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 400,
-    "timeWeek": 440,
-    "timeMonth": 476,
-    "timeYear": 491,
-    "dailyMinutesDown": {}
+    "time": 506,
+    "timeDay": 2296,
+    "timeWeek": 909,
+    "timeMonth": 596,
+    "timeYear": 506,
+    "dailyMinutesDown": {
+      "2024-09-03": 3
+    }
   },
   {
     "name": "Indic Keyboard",
     "url": "https://indic.app",
     "icon": "https://icons.duckduckgo.com/ip3/indic.app.ico",
     "slug": "indic-keyboard",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 407,
     "timeDay": 353,
     "timeWeek": 385,
     "timeMonth": 404,
     "timeYear": 407,
     "dailyMinutesDown": {
+      "2024-09-03": 3,
       "2024-01-09": 16
     }
   },
@@ -160,11 +163,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/grandham.in.ico",
     "slug": "grandham",
     "status": "up",
-    "uptime": "84.04%",
+    "uptime": "84.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.71%",
+    "uptimeYear": "72.76%",
     "time": 1088,
     "timeDay": 1146,
     "timeWeek": 1316,
@@ -276,18 +279,19 @@
     "url": "https://poorna.smc.org.in",
     "icon": "https://icons.duckduckgo.com/ip3/poorna.smc.org.in.ico",
     "slug": "poorna",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 646,
+    "time": 616,
     "timeDay": 455,
     "timeWeek": 523,
     "timeMonth": 560,
     "timeYear": 569,
     "dailyMinutesDown": {
+      "2024-09-03": 2,
       "2023-10-30": 27
     }
   },
@@ -296,10 +300,10 @@
     "url": "https://swanalekha.smc.org.in",
     "icon": "https://icons.duckduckgo.com/ip3/swanalekha.smc.org.in.ico",
     "slug": "swanalekha",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 532,
@@ -307,7 +311,9 @@
     "timeWeek": 459,
     "timeMonth": 507,
     "timeYear": 532,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-03": 2
+    }
   },
   {
     "name": "Community",
@@ -404,10 +410,10 @@
     "url": "https://handwriting.smc.org.in",
     "icon": "https://icons.duckduckgo.com/ip3/handwriting.smc.org.in.ico",
     "slug": "handwriting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 443,
@@ -415,17 +421,19 @@
     "timeWeek": 404,
     "timeMonth": 395,
     "timeYear": 443,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-03": 1
+    }
   },
   {
     "name": "Malayalam Speech Corpus",
     "url": "https://msc.smc.org.in",
     "icon": "https://icons.duckduckgo.com/ip3/msc.smc.org.in.ico",
     "slug": "malayalam-speech-corpus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 445,
@@ -433,7 +441,9 @@
     "timeWeek": 421,
     "timeMonth": 443,
     "timeYear": 445,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-03": 1
+    }
   },
   {
     "name": "Malayalam Phonetic Analyser",
@@ -497,9 +507,9 @@
     "url": "https://translate.smc.org.in",
     "icon": "https://icons.duckduckgo.com/ip3/translate.smc.org.in.ico",
     "slug": "english-malayalam-machine-translation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -508,6 +518,8 @@
     "timeWeek": 382,
     "timeMonth": 374,
     "timeYear": 373,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   }
 ]
