@@ -1,7 +1,7 @@
 url: https://varnam-status.smc.org.in/status
-status: down
-code: 502
-responseTime: 695
-lastUpdated: 2024-12-31T19:42:50.647Z
+status: up
+code: 200
+responseTime: 703
+lastUpdated: 2024-12-31T21:35:37.116Z
 startTime: 2022-11-07T08:02:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
