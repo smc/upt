@@ -1,7 +1,7 @@
 url: https://ocr.smc.org.in
-status: up
-code: 200
-responseTime: 150
-lastUpdated: 2025-11-18T12:58:00.649Z
+status: down
+code: 500
+responseTime: 110
+lastUpdated: 2025-11-18T13:38:30.461Z
 startTime: 2023-12-30T14:43:19.535Z
 generator: Upptime <https://github.com/upptime/upptime>
