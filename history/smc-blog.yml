@@ -1,7 +1,7 @@
 url: https://blog.smc.org.in
-status: up
-code: 200
-responseTime: 593
-lastUpdated: 2025-12-01T23:13:43.646Z
+status: down
+code: 502
+responseTime: 366
+lastUpdated: 2025-12-02T10:25:21.584Z
 startTime: 2023-12-30T14:41:53.655Z
 generator: Upptime <https://github.com/upptime/upptime>
