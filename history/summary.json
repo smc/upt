@@ -52,11 +52,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/indicproject.org.ico",
     "slug": "indic-project",
     "status": "up",
-    "uptime": "67.39%",
+    "uptime": "67.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "54.61%",
+    "uptimeYear": "54.72%",
     "time": 705,
     "timeDay": 726,
     "timeWeek": 575,
@@ -377,7 +377,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/swanalekha.smc.org.in.ico",
     "slug": "swanalekha",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -493,11 +493,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/msc.smc.org.in.ico",
     "slug": "malayalam-speech-corpus",
     "status": "down",
-    "uptime": "87.97%",
+    "uptime": "87.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "71.81%",
+    "uptimeYear": "71.70%",
     "time": 406,
     "timeDay": 0,
     "timeWeek": 0,
@@ -505,7 +505,7 @@
     "timeYear": 399,
     "dailyMinutesDown": {
       "2025-08-01": 23,
-      "2026-07-13": 85,
+      "2026-07-13": 687,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -693,6 +693,26 @@
     "dailyMinutesDown": {
       "2025-08-01": 23,
       "2026-04-10": 56
+    }
+  },
+  {
+    "name": "മലയാളം മാഷ്",
+    "url": "https://learn.smc.org.in",
+    "icon": "https://icons.duckduckgo.com/ip3/learn.smc.org.in.ico",
+    "slug": "മലയാളം-മാഷ്",
+    "status": "down",
+    "uptime": "18.76%",
+    "uptimeDay": "18.76%",
+    "uptimeWeek": "18.76%",
+    "uptimeMonth": "18.76%",
+    "uptimeYear": "18.76%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-07-13": 1
     }
   }
 ]
