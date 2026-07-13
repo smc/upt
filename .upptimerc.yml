@@ -55,6 +55,8 @@ sites:
     url: https://releases.smc.org.in
   - name: English-Malayalam Machine Translation
     url: https://translate.smc.org.in
+  - name: മലയാളം മാഷ്
+    url: https://learn.smc.org.in
 assignees : # Users to assign downtime issues (optional)
   - balasankarc
   - joicemjoseph
